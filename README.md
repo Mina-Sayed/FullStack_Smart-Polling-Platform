@@ -184,31 +184,8 @@ FRONTEND_URL=http://localhost:3001
 2. Deploy the `dist` folder
 3. Update API base URL for production
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Mina Sayed**
 - GitHub: [@Mina-Sayed](https://github.com/Mina-Sayed)
 - Email: minasayed290@gmail.com
-
-## � Acknowledgments
-
-- NestJS team for the amazing framework
-- React team for the powerful frontend library
-- shadcn/ui for beautiful UI components
-- The open-source community for inspiration and tools
-
----
-
-⭐ **Star this repository if you found it helpful!**
